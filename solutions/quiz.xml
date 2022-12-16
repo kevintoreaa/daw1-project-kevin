@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <html>
+        <q1>
+            <question>HTML document must always be saved with which of the following?</question>
+            <options>
+                <option id="1">.html</option>
+                <option id="2">.doc</option>
+                <option id="3">.htm</option>
+                <option id="4">both .html and .htm</option>
+            </options>
+            <answer>both .html and .htm</answer>
+        </q1>
+    </html>
+    <css>
+        <q1>
+            <question>Which of the following CSS property is used to set the backgroun image of an element?</question>
+            <options>
+                <option id="1">background-color</option>
+                <option id="2">background-image</option>
+                <option id="3">background-attachment</option>
+                <option id="4">none</option>
+            </options>
+            <answer>background-image</answer>
+        </q1>
+        <q2>
+            <question>How to select the elements with the class name example?</question>
+            <options>
+                <option id="1">example</option>
+                <option id="2">#example</option>
+                <option id="3">class example</option>
+                <option id="4">.example</option>
+            </options>
+            <answer>.example</answer>
+        </q2>
+    </css>
+</quiz>

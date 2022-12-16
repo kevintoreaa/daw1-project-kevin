@@ -1,0 +1,9 @@
+Exercice 7
+
+The size of "quiz.json" is 1,17KB, and the size of "quiz.xml" is 1,37KB.
+The percentage of saved storage space is a 15% (aprox).
+
+Exercice 11
+
+The correct answer is the number 2.
+

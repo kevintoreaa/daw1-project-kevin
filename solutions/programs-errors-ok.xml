@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<programs>
+	<programs_name>
+		<program id="1">
+			<Name>Firefox</Name>
+			<Licence>GPL and MPU</Licence>
+		</program>
+		<program id="2">
+			<Name>LibreOffice</Name>
+		</program>
+		<program id="3">
+			<Name>Inkscape</Name>
+			<Licence>GPL</Licence>
+		</program>
+		<program id="4">
+			<Name>Chrome</Name>
+		</program>
+		<program id="5">
+			<Name>Edge</Name>
+		</program>
+	</programs_name>
+	<producers>
+		<Producer>Microsoft</Producer>
+	</producers>
+</programs>
