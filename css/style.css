@@ -1,0 +1,47 @@
+header{
+    background-color: black;
+    font-family: Verdana;
+    height: 8em;
+
+}
+
+footer{
+    background-color: black;
+    font-family: Verdana;
+    height: 3em;
+}
+
+footer > p{
+    margin-top:4px;
+    color:purple;
+    font-family: Verdana;
+}
+#html{
+    color:#56C0DB;
+    font-family: Verdana;
+
+}
+
+#CSSJSON{
+    color:#DB9555;
+    font-family: Verdana;
+    align-items:center;
+
+}
+
+#XML{
+    color:#A0DB4B;
+    font-family: Verdana;
+
+}
+
+#title{
+    font-family: 'Courier New';
+    size: 3em;
+    color:#249FF0;
+    text-align: 200px;
+}
+
+a:hover{
+    color:white;
+}
