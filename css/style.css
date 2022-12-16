@@ -15,6 +15,7 @@ footer > p{
     margin-top:4px;
     color:purple;
     font-family: Verdana;
+    letter-spacing: 0.1em;
 }
 #html{
     color:#56C0DB;
@@ -37,11 +38,27 @@ footer > p{
 
 #title{
     font-family: 'Courier New';
-    size: 3em;
+    font-size: 3em;
     color:#249FF0;
-    text-align: 200px;
 }
 
 a:hover{
     color:white;
+}
+
+header > p{
+    margin: 1em;
+}
+
+main > article{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    border-top:10px;
+}
+
+.name{
+    font-weight:bold;
+    letter-spacing: 0.1em;
 }
